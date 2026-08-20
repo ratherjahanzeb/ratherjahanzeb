@@ -1,21 +1,53 @@
-# 💫 About Me:
-I'm a student and technology enthusiast from Kashmir , interested in Android, open-source software, FOSS, app development, and emerging technologies.<br><br>I'm currently learning by building projects rather than just studying theory. My main project is SHEEN — an open-source Android app store inspired by Kashmir, focused on discovering and distributing apps from open-source repositories.<br><br>🔧 Interests<br><br>- Android & Android customization<br>- FOSS / Open Source<br>- App development<br>- UI/UX & Material Design<br>- Web technologies<br>- AI & emerging technology<br>- Linux and privacy-focused software<br>- Exploring new apps, tools and developer platforms<br><br>🚀 Currently Building<br><br>SHEEN — an open-source Android app store designed around a modern Material 3 experience, with a focus on FOSS applications, discovery, accessibility and a distinctly Kashmiri identity.<br><br>📚 Currently Learning<br><br>I'm continuously experimenting with React Native, Expo, TypeScript, Git, GitHub, Android development, APIs and modern web technologies. I'm still learning, so many of my projects are experiments where I learn by building, testing, breaking and rebuilding.<br><br>🌱 Philosophy<br><br>I prefer understanding how things work rather than simply using them. I enjoy experimenting with software, exploring alternatives to proprietary services, and turning ideas into working projects.<br><br>«Build. Experiment. Break. Learn. Rebuild.»
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ratherjahanzeb&theme=github-dark&label=Jahanzeb" width="100%" alt="Jahanzeb" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ratherjahanzeb&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ratherjahanzeb&theme=github-dark&mode=dark" width="100%" alt="Jahanzeb — profile" />
+  </picture>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somonolese_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/somonolese) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somonelese1@gmail.com) 
+<p align="center"><a href="https://github.com/ratherjahanzeb">GitHub</a></p>
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=somonolese&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=somonolese&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=somonolese&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=ratherjahanzeb&theme=github-dark" alt="ratherjahanzeb about visual" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ratherjahanzeb&theme=github-dark" alt="ratherjahanzeb stack visual" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=somonolese&icon=0&color=2)](https://visitcount.itsvg.in)
+## Signal
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ratherjahanzeb&theme=github-dark" width="100%" alt="3 stars across 3 repositories" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ratherjahanzeb&theme=github-dark" width="100%" alt="Language stack" />
+</p>
+
+## Work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ratherjahanzeb&theme=github-dark" width="100%" alt="Pinned projects" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ratherjahanzeb&theme=github-dark" alt="ratherjahanzeb social visual" />
+</p>
+
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=ratherjahanzeb&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Jahanzeb · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</p>
